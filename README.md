@@ -71,9 +71,6 @@ I'm a Full-Stack developer who likes to work with JavaScript/PHP (Laravel, Codei
   </table>
 
 <br />
-<br />
-
-<br />
 
 #### 🧡 &nbsp;&nbsp;My passions
 
