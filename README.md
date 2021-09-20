@@ -21,6 +21,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+- 🔭 I’m currently working on JS/PHP
+- 🌱 I’m currently learning Blockchain Solidity, Web3, Python.
+- 👯 I’m looking to collaborate on Blockchain and Python projects.
+
 <!-- <p align="center">
   <a href="https://aralroca.com">
     <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
@@ -48,7 +52,8 @@ Here are some ideas to get you started:
 I'm a Full-Stack developer who likes to work with JavaScript/PHP (Laravel, Codeigniter, Vue.js, React.js) Python among others. 
 
 <div align="center">
-  ![Maajid's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-maajid&show_icons=true&theme=radical)
+  ![Maajid's GitHub stats]
+    <img width="" src="https://github-readme-stats.vercel.app/api?username=abdul-maajid&show_icons=true&theme=radical" alt="Maajid's Github Stats" />
   <br />
 </div>
 
