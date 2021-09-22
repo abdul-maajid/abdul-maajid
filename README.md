@@ -64,7 +64,7 @@ I'm a Full-Stack developer who likes to work with JavaScript/PHP (Laravel, Codei
           <div align="center">
             <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-maajid&layout=compact&hide_title=1&card_width=300&hide_border=true" alt="Top language used in my repos" />
             <br />
-            <small style="font-size:12px;" align="center">Languages used in my public repos - big fan of JavaScript & Python 😛</small>
+            <small style="font-size:12px;" align="center">Languages used in my public repos - big fan of JS & Python 😛</small>
           </div>
         </td>
       </tr>
