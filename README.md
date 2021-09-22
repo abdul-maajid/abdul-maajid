@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   </a>
   &nbsp;&nbsp;
   <a href="mailto:amaajid@gmil.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="22px" width="22px" />
   </a>
 </p>
 
@@ -64,26 +64,23 @@ I'm a Full-Stack developer who likes to work with JavaScript/PHP (Laravel, Codei
           <div align="center">
             <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-maajid&layout=compact&hide_title=1&card_width=300&hide_border=true" alt="Top language used in my repos" />
             <br />
-            <small style="font-size:12px;" align="center">Languages used in my public repos - big fan of JS & Python 😛</small>
+            <small style="font-size:12px;" align="center">Languages used in my public repos - big fan of JS & Python 😉</small>
           </div>
         </td>
       </tr>
   </table>
 
-<br />
-
-#### 🧡 &nbsp;&nbsp;My passions
+#### 🧡 &nbsp;&nbsp;My Passions
 
 * Coding
-* Science 
-* Machine learning
+* AI/Machine learning
 * Blockchain
 * Fitness
 * Nature
 
 <!-- A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
 
-#### 📖 &nbsp;&nbsp;[aralroca.com](https://aralroca.com): Last 5 articles
+#### 📖 &nbsp;&nbsp; Last 5 articles
  
 * [Virtual Sommelier, text classifier in the browser](https://aralroca.com/blog/food-pairing-classifier) 
 * [Next-translate - Version 1.0 Released](https://aralroca.com/blog/next-translate-1.0) 
