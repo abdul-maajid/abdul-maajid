@@ -78,6 +78,8 @@ I'm a Full-Stack developer who likes to work with JavaScript/PHP (Laravel, Codei
 * Fitness
 * Nature
 
+<a href="https://app.daily.dev/abdulmaajid"><img src="https://api.daily.dev/devcards/a63c9a01af2e4958a6e4e0f6d8259509.png?r=frp" width="400" alt="Abdul Maajid's Dev Card"/></a>
+
 <!-- A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
 
 #### 📖 &nbsp;&nbsp; Last 5 articles
