@@ -41,7 +41,7 @@ I'm a Full-Stack developer who likes to work with JavaScript/PHP (Laravel, Codei
       <tr>
           <td>
            <div align="center">
-             <a href="https://app.daily.dev/abdulmaajid"><img src="https://api.daily.dev/devcards/a63c9a01af2e4958a6e4e0f6d8259509.png?r=j34" width="400" alt="Abdul Maajid's Dev Card"/></a>
+             <a href="https://app.daily.dev/abdulmaajid"><img src="https://api.daily.dev/devcards/a63c9a01af2e4958a6e4e0f6d8259509.png?r=j34" height="350" alt="Abdul Maajid's Dev Card"/></a>
 <!--                 <img width="" src="https://github-readme-stats.vercel.app/api?username=abdul-maajid&show_icons=true&hide_border=true" alt="Maajid's Github Stats" /> -->
               <br />
 <!--               <small align="center">My Github Stats</small> -->
