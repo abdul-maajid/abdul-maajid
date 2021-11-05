@@ -73,15 +73,12 @@ I'm a Full-Stack developer who likes to work with JavaScript/PHP (Laravel, Codei
 * Fitness
 * Nature
 
-<!-- A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
+<!-- A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles.  -->
 
-#### 📖 &nbsp;&nbsp; Last 5 articles
+#### 📖 &nbsp;&nbsp; My Last Published articles
  
-* [Virtual Sommelier, text classifier in the browser](https://aralroca.com/blog/food-pairing-classifier) 
-* [Next-translate - Version 1.0 Released](https://aralroca.com/blog/next-translate-1.0) 
-* [Etiketai - speed up training your AI models with a free open source app](https://aralroca.com/blog/etiketai) 
-* [GitHub action to publish your blog post to dev.to](https://aralroca.com/blog/ghaction-devto) 
-* [Do all roads lead to Rome?](https://aralroca.com/blog/do-all-roads-lead-to-rome) -->
+* [Top Programming Languages To Create Smart Contracts](https://dev.to/abdulmaajid/top-programming-languages-to-create-smart-contracts-3n3f) 
+* [How to Create an ERC20 Token in Solidity](https://dev.to/abdulmaajid/how-to-create-an-erc20-token-in-solidity-1a9h) 
 
 
 <!-- <a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
