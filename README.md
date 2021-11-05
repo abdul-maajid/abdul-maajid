@@ -30,7 +30,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:amaajid@gmil.com" target="_blank">
+  <a href="mailto:amaajid0@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="22px" width="22px" />
   </a>
 </p>
