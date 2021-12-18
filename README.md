@@ -7,8 +7,8 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on JS/PHP
-- 🌱 I’m currently learning Blockchain Solidity, Web3, Python.
+- 🔭 I’m currently working on Solidity/Javascript
+- 🌱 I’m currently learning Blockchain, Web3, Python.
 - 👯 I’m looking to collaborate on Blockchain and Python projects.
 
 <!-- <p align="center">
