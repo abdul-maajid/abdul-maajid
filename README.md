@@ -77,6 +77,7 @@ I'm a Full-Stack developer who likes to work with JavaScript/PHP (Laravel, Codei
 
 #### 📖 &nbsp;&nbsp; My Last Published articles
  
+* [How to Create an NFT(ERC-721) using OpenZeppelin](https://dev.to/abdulmaajid/how-to-create-an-nfterc-721-using-openzeppelin-3778) 
 * [Top Programming Languages To Create Smart Contracts](https://dev.to/abdulmaajid/top-programming-languages-to-create-smart-contracts-3n3f) 
 * [How to Create an ERC20 Token in Solidity](https://dev.to/abdulmaajid/how-to-create-an-erc20-token-in-solidity-1a9h) 
 
