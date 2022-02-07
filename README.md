@@ -7,9 +7,9 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on Solidity/Javascript
+- 🔭 I’m currently working on Solidity/Web3
 - 🌱 I’m currently learning Blockchain, Web3, Python.
-- 👯 I’m looking to collaborate on Blockchain and Python projects.
+- 👯 I’m looking to collaborate on Blockchain and Web3 projects.
 
 <!-- <p align="center">
   <a href="https://aralroca.com">
@@ -18,11 +18,11 @@
 </p> -->
 
 <p align="center" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/amaajid007" target="_blank" style='margin-right:10px'>
+   <a href="https://twitter.com/MrAMaajid" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="#" target="_blank" style='margin-right:10px'>
+  <a href="https://stackoverflow.com/users/8449781/abdul-maajid" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-I'm a Full-Stack developer who likes to work with JavaScript/PHP (Laravel, Codeigniter, Vue.js, React.js) Python among others. 
+I'm a Blockchain developer who likes to work with JavaScript/Solidity (Laravel, Codeigniter, Python, Vue.js, React.js) among others. 
 
   <table align="center" border="0">
       <tr>
