@@ -76,7 +76,8 @@ I'm a Blockchain developer who likes to work with JavaScript/Solidity (Laravel, 
 <!-- A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles.  -->
 
 #### 📖 &nbsp;&nbsp; My Last Published articles
- 
+
+* [Best Free Resources to Learn Web3/Blockchain Development](https://dev.to/abdulmaajid/best-free-resources-to-learn-web3blockchain-development-243l) 
 * [How to Create an NFT(ERC-721) using OpenZeppelin](https://dev.to/abdulmaajid/how-to-create-an-nfterc-721-using-openzeppelin-3778) 
 * [Top Programming Languages To Create Smart Contracts](https://dev.to/abdulmaajid/top-programming-languages-to-create-smart-contracts-3n3f) 
 * [How to Create an ERC20 Token in Solidity](https://dev.to/abdulmaajid/how-to-create-an-erc20-token-in-solidity-1a9h) 
