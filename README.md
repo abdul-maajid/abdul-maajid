@@ -77,6 +77,7 @@ I'm a Blockchain developer who likes to work with JavaScript/Solidity (Laravel, 
 
 #### 📖 &nbsp;&nbsp; My Last Published articles
 
+* [ERC20 vs ERC721 vs ERC 1155](https://dev.to/abdulmaajid/erc20-vs-erc721-vs-erc-1155-4g5h)
 * [Best Free Resources to Learn Web3/Blockchain Development](https://dev.to/abdulmaajid/best-free-resources-to-learn-web3blockchain-development-243l) 
 * [How to Create an NFT(ERC-721) using OpenZeppelin](https://dev.to/abdulmaajid/how-to-create-an-nfterc-721-using-openzeppelin-3778) 
 * [Top Programming Languages To Create Smart Contracts](https://dev.to/abdulmaajid/top-programming-languages-to-create-smart-contracts-3n3f) 
