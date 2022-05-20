@@ -51,7 +51,7 @@ I'm a Blockchain developer who likes to work with JavaScript/Solidity (Laravel, 
           </td>
         <td>
           <div align="center">
-                 <img width="" src="https://github-readme-stats.vercel.app/api?username=abdul-maajid&show_icons=true&hide_border=true" alt="Maajid's Github Stats" />
+                 <img width="" src="https://github-readme-stats.vercel.app/api?username=abdul-maajid&show_icons=true&hide_border=true&count_private=true" alt="Maajid's Github Stats" />
               <br />
               <small align="center">My Github Stats</small>
             </div>
