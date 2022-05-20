@@ -44,7 +44,7 @@ I'm a Blockchain developer who likes to work with JavaScript/Solidity (Laravel, 
              <a href="https://app.daily.dev/abdulmaajid">
                <img src="https://github.com/abdul-maajid/abdul-maajid/blob/main/devcard.svg" width="350" alt="Abdul Maajid's Dev Card"/>
              </a>
-<!--                 <img width="" src="https://github-readme-stats.vercel.app/api?username=abdul-maajid&show_icons=true&hide_border=true" alt="Maajid's Github Stats" /> -->
+<!--                 <img width="" src="https://github-readme-stats.vercel.app/api?username=abdul-maajid&show_icons=true&hide_border=true&count_private=true" alt="Maajid's Github Stats" /> -->
               <br />
 <!--               <small align="center">My Github Stats</small> -->
             </div>
