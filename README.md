@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Abdul Maajid
 
 <div align="right">
-  <a href="#">
+  <a href="https://www.buymeacoffee.com/abdulmaajid">
     <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
   </a>
 </div>
