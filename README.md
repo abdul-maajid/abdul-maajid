@@ -35,7 +35,7 @@
   </a>
 </p>
 
-I'm a Blockchain developer who likes to work with JavaScript/Solidity (Laravel, Codeigniter, Python, Vue.js, React.js) among others. 
+I'm a Fullstack Blockchain developer who likes to work with JavaScript/Solidity (Laravel, Codeigniter, Python, Vue.js, React.js) among others. 
 
   <table align="center" border="0">
       <tr>
